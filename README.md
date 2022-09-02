@@ -1,1 +1,1 @@
-# 09-Challenge
+{"title":"t","description":"t","installation":"t","usage":"t","contributing":"t","tests":"t","license":"[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)","username":"t","email":"t"}
