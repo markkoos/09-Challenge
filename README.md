@@ -1,9 +1,9 @@
-# test
+# Markus README Challenge
 
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
 ## Description
-test
+Write code using node.js that dynamically generates a fully formatted README using data given in a prompt
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,21 @@ test
 - [Questions](questions)
 
 ### Installation
-test
+Install the inquirer and fs dependencies along with the given code for this to work on your computer
 
 ### Usage Information
-test
+Navigate to the folder's contentse in your terminal and run the "node index.js" command; then answers the questionaire
 
 ### Contribution Guidelines
-test
+Main/Only contributor: Markus Mercado
 
 ### Test Instructions:
-undefined
+Run the "node index.js" command and answer random text to see if it applies to the generated README
 
 ### Questions
-https://github.com/test
+https://github.com/markkoos
 
 If you have any questions please send me an email: 
-test
+markusimercado@gmail.com
+
+[![Demonstration Video](https://drive.google.com/file/d/1yobH45KjE4HdppJlGU6Oi-TErJpR13Uw/view)]
